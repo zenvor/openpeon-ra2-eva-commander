@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "ra2_eva_commander",
   "display_name": "RA2 EVA Commander",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Red Alert 2 Allied EVA commander voice lines mixed with Tanya responses.",
   "author": {
     "name": "zenvor",
@@ -65,6 +65,11 @@
           "file": "sounds/soviet-tech-building-captured.wav",
           "label": "Tech building captured",
           "sha256": "2fc61ea338ff9bf2cae45a9b3f2955c98225ac004a0d31b1c7e871fd57e6ee51"
+        },
+        {
+          "file": "sounds/yeah-baby.wav",
+          "label": "Yeah baby!",
+          "sha256": "8f0816ab5b03a21992823a1bdd0b1056cab4a7710630b105d63c6cd4cb831394"
         }
       ]
     },
