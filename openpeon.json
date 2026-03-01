@@ -1,0 +1,157 @@
+{
+  "cesp_version": "1.0",
+  "name": "ra2_eva_commander",
+  "display_name": "RA2 EVA Commander",
+  "version": "1.0.0",
+  "description": "Red Alert 2 Allied EVA commander voice lines mixed with Tanya responses.",
+  "author": {
+    "name": "zenvor",
+    "github": "zenvor"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/battle-control-online.wav",
+          "label": "Battle control online",
+          "sha256": "8587486f0acaaeca9f13c6270b58b9dbdbb07d5070eb8cb09ca48c58a1ca544f"
+        },
+        {
+          "file": "sounds/establishing-battlefield-control.wav",
+          "label": "Establishing battlefield control, stand by",
+          "sha256": "2c2694e15578bcade1ea03a8a8dc821262140a5a81e23f8a9f3d15090d33cc9e"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/unit-ready.wav",
+          "label": "Unit ready",
+          "sha256": "e0b321a9d5538da2e42b75f499907bdc95f74aceb6cfb77aa5d3055084ae2cdd"
+        },
+        {
+          "file": "sounds/soviet-unit-ready.wav",
+          "label": "Unit ready (Soviet)",
+          "sha256": "4721334490c701438e7200d1c6a2629f93660a84788106a0ab0c5281ef3b46b0"
+        },
+        {
+          "file": "sounds/eva-building.mp3",
+          "label": "Building",
+          "sha256": "70c3e1cacd91b438fb2a671f417a482d4f33b92741515681344965dcc79222e6"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/construction-complete.wav",
+          "label": "Construction complete",
+          "sha256": "982007f15a73f6efd4513089669a3a20b538d6d919ce0393f8ce82772cacbb0f"
+        },
+        {
+          "file": "sounds/reinforcements-have-arrived.wav",
+          "label": "Reinforcements have arrived",
+          "sha256": "34f70bc31de5af3159acdbb0eb9fba3b11242b10e0af1557e5eb6eed89baea94"
+        },
+        {
+          "file": "sounds/unit-promoted.wav",
+          "label": "Unit promoted",
+          "sha256": "4af03db6aeb412d1adb6658a882ba0975781b6cf8b65285a48e9aed149c36c73"
+        },
+        {
+          "file": "sounds/soviet-tech-building-captured.wav",
+          "label": "Tech building captured",
+          "sha256": "2fc61ea338ff9bf2cae45a9b3f2955c98225ac004a0d31b1c7e871fd57e6ee51"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/unit-lost.wav",
+          "label": "Unit lost",
+          "sha256": "79d74ac4e4b65065dd6cba4223099bf7ab59d6e189926e1e8e8c7ae5f2437219"
+        },
+        {
+          "file": "sounds/nuclear-missile-launched.wav",
+          "label": "Warning, nuclear missile launched",
+          "sha256": "1f1fa6bca0236484d80d51fa15feca1bbbb65b426ef325366de90f6ddc0c1cca"
+        },
+        {
+          "file": "sounds/soviet-building-infiltrated.wav",
+          "label": "Building infiltrated",
+          "sha256": "f436578597014ae9500b17ddcd3ef437b971e9ca5fca7964a49765aaaec75ba2"
+        },
+        {
+          "file": "sounds/soviet-our-ally-is-under-attack.wav",
+          "label": "Our ally is under attack",
+          "sha256": "ad5e1e1d9367bc4d88816bc6103d546008671456cc5e148181d78a74f6345604"
+        },
+        {
+          "file": "sounds/soviet-tech-building-lost.wav",
+          "label": "Tech building lost",
+          "sha256": "294729683ed251b8645b0865628d3dced37332bf90a9cb75185b377ee2c5522f"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/new-construction-options.wav",
+          "label": "New construction options",
+          "sha256": "60ee6387a48bf2106daa4258c86080791a4cc48ba6e3c2793547d266e39741ca"
+        },
+        {
+          "file": "sounds/incoming-transmission.wav",
+          "label": "Incoming transmission",
+          "sha256": "964dbc770e8f032b1a18a43ad06182cd3d2a2a2ce8ec0a83382c9ebb2c79abc9"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/insufficient-funds.wav",
+          "label": "Insufficient funds",
+          "sha256": "9e8edb0da6e8ca5f3915c3ef23df24500b93819b622cea87655c326f92c522b9"
+        },
+        {
+          "file": "sounds/low-power.wav",
+          "label": "Low power",
+          "sha256": "f9aa29c74fbbef83302b2799d840f5e2b10fbd022296ae0fe21ba415816a5787"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/tanya-hahahaha.wav",
+          "label": "Hahahaha!",
+          "sha256": "9f9b0f4f1edacc0541ef6aa508a4a8d53a5b524cacb9156a1fb7ed802d6702ea"
+        },
+        {
+          "file": "sounds/shake-it-baby.wav",
+          "label": "Shake it baby!",
+          "sha256": "1885ae78496d6f663f7ed7a3571556077c62fcaa3de55560c87760b6bd673a25"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/soviet-battle-control-terminated.wav",
+          "label": "Battle control terminated",
+          "sha256": "3a258ebc7098b6adf97483b7881b61a7e62ebaab06aa15bf6f089dfa7caf8a8f"
+        },
+        {
+          "file": "sounds/soviet-you-have-resigned.wav",
+          "label": "You have resigned",
+          "sha256": "ce704945973d93480caeb724c18bda92472460290a45b0042afb3afdb876bd39"
+        }
+      ]
+    }
+  }
+}
