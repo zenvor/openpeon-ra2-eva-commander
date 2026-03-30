@@ -1,12 +1,11 @@
-# openpeon-ra2-eva-commander
+# ra2_eva_commander
 
 A [peon-ping](https://github.com/PeonPing/peon-ping) voice pack featuring Red Alert 2 Allied EVA commander voice lines mixed with Tanya responses. Your AI coding assistant will now sound like a battlefield command center.
 
 ## Install
 
 ```bash
-peon packs install ra2_eva_commander
-peon packs use ra2_eva_commander
+peon packs use --install ra2_eva_commander
 ```
 
 ## Sound Map
@@ -27,7 +26,6 @@ peon packs use ra2_eva_commander
 - Allied EVA voice lines from *Command & Conquer: Red Alert 2*
 - Soviet EVA voice lines from *Command & Conquer: Red Alert 2*
 - Tanya voice lines from *Command & Conquer: Red Alert 2*
-
 ## License
 
-CC-BY-NC-4.0
+Audio content: CC-BY-NC-4.0 (see `openpeon.json`). Repository structure: MIT.
