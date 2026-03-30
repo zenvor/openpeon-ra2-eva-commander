@@ -26,6 +26,7 @@ peon packs use --install ra2_eva_commander
 - Allied EVA voice lines from *Command & Conquer: Red Alert 2*
 - Soviet EVA voice lines from *Command & Conquer: Red Alert 2*
 - Tanya voice lines from *Command & Conquer: Red Alert 2*
+
 ## License
 
 Audio content: CC-BY-NC-4.0 (see `openpeon.json`). Repository structure: MIT.
