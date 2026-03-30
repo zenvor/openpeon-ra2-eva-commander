@@ -13,7 +13,7 @@ peon packs use ra2_eva_commander
 
 | Event | Trigger | Voice Lines |
 |---|---|---|
-| `session.start` | Session opens | "Battle control online" / "Establishing battlefield control, stand by" |
+| `session.start` | Session opens | "Battle control online" |
 | `task.acknowledge` | AI accepts task | "Unit ready" / "Unit ready" (Soviet) / "Building" |
 | `task.complete` | Task finished | "Construction complete" / "Reinforcements have arrived" / "Unit promoted" / "Tech building captured" |
 | `task.error` | Something failed | "Unit lost" / "Warning, nuclear missile launched" / "Building infiltrated" / "Our ally is under attack" / "Tech building lost" |

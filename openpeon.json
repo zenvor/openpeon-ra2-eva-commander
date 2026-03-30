@@ -17,11 +17,6 @@
           "file": "sounds/battle-control-online.wav",
           "label": "Battle control online",
           "sha256": "8587486f0acaaeca9f13c6270b58b9dbdbb07d5070eb8cb09ca48c58a1ca544f"
-        },
-        {
-          "file": "sounds/establishing-battlefield-control.wav",
-          "label": "Establishing battlefield control, stand by",
-          "sha256": "2c2694e15578bcade1ea03a8a8dc821262140a5a81e23f8a9f3d15090d33cc9e"
         }
       ]
     },
